@@ -3,7 +3,57 @@ html {
   text-align: center;
 }
 
-.home {
-  background-image: url(resources/the-flatiron-building.png);
-  
+#home {
+  background-image: url(../the-flatiron-building.png);
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.middle {
+  background-image: url(../the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p {
+  font-size: 14px;
+}
+
+#work p {
+  font-size: 14px;
+}
+
+#team p {
+  font-size: 14px;
+}
+
+#contact p {
+  font-size: 14px;
 }
